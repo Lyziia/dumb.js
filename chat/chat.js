@@ -21,7 +21,7 @@ let symq = [
 ]
 
 const name = "Symmetra";
-const chat;
+var chat;
 var x = 0;
 
 $(document).on('keypress', function (e) {
